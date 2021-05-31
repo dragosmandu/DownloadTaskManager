@@ -1,1 +1,1 @@
-# DownloadTaskManager
+# DownloadTaskManager - Swift downloading framework.
